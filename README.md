@@ -28,12 +28,10 @@
 
 ### 配置
 
-- config
-
 ```js
 const config = {
   name: 'json', // 解码器名称，用于标记解码所需加载的规则标记 （json string Hex ..）
-  topic: 'JSON_TOPIC', // 监听的topic，获取支持解码的数据
+  topic: 'JSON_OPIC', // 监听的topic，获取支持解码的数据
   redis: {
     // redis配置信息
     host: '192.168.0.201',
@@ -48,12 +46,18 @@ const config = {
 }
 ```
 
-- 流程
+### 流程
 
 ![](https://image-1257148187.cos.ap-chengdu.myqcloud.com/picgo_img/20190131161528.png)
 
+### 代码
 
-### 效果
+加载依赖 `yarn install` or `npm install --save`
+
+启动 `node index.js`
+
+
+![](https://image-1257148187.cos.ap-chengdu.myqcloud.com/picgo_img/20190131165220.png)
 
 
 
