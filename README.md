@@ -11,7 +11,7 @@
 ### 配置
 
 - config
-```json
+```js
 
 const config = {
   name: 'json', // 解码器名称，用于标记解码所需加载的规则标记 （json string Hex ..）
