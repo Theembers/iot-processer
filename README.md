@@ -1,6 +1,6 @@
 # iot-processer
 
-基于 nodejs + kafka + redis 实现的 物联网数据解码单元
+基于 nodejs + kafka + redis 实现的 编程式物联网数据解码单元
 
 ## 特点
 
