@@ -5,7 +5,7 @@
 ## 特点
 
 - 编程式解码规则定义
-  基于 JavaScript 脚本语言特性，支持自定义编程式解码规则
+  基于 JavaScript 脚本语言特性(代码注入)，支持自定义编程式解码规则
 - 分布式支持
 
 ## 说明
@@ -52,7 +52,12 @@ const config = {
 
 ![](https://image-1257148187.cos.ap-chengdu.myqcloud.com/picgo_img/20190131161528.png)
 
-- 解码器规则实例
+
+### 效果
+
+
+
+### 解码器规则实例
 
 ```
 key-data-change-rule-5601808030001129
