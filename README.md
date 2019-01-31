@@ -11,7 +11,7 @@
 ### 配置
 
 - config
-  ```json
+```json
 
 const config = {
   name: 'json', // 解码器名称，用于标记解码所需加载的规则标记 （json string Hex ..）
@@ -26,7 +26,7 @@ const config = {
     kafkaHost: '192.168.10.120:6667,192.168.10.121:6667,192.168.10.122:6667'
   }
 }
-  ```
+```
 
 - 流程
 
