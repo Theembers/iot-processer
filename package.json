@@ -1,0 +1,14 @@
+{
+  "name": "processor-plugin",
+  "version": "1.1.1",
+  "main": "index.js",
+  "author": "TheEmbers Guo",
+  "license": "MIT",
+  "dependencies": {
+    "bytes.js": "^0.0.2",
+    "express": "^4.16.4",
+    "js-base64": "^2.5.1",
+    "kafka-node": "^4.0.0",
+    "redis": "^2.8.0"
+  }
+}
