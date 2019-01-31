@@ -46,7 +46,7 @@ const config = {
 
 - 流程
 
-![](https://image-1257148187.cos.ap-chengdu.myqcloud.com/picgo_img/20190131155928.png)
+![](https://image-1257148187.cos.ap-chengdu.myqcloud.com/picgo_img/20190131161528.png)
 
 - 解码器规则实例
 
