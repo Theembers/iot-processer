@@ -21,9 +21,7 @@
 ### 环境依赖
 
 - node
-
 - kafka
-
 - redis
 
 ### 配置
