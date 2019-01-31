@@ -14,6 +14,10 @@
 
 数据接入端接入设备数据后，通过特征标示分类推送到 kafka 消息队列，等待 iot-processer 模块消费解码数据
 
+平台总体架构设计
+
+![](https://image-1257148187.cos.ap-chengdu.myqcloud.com/picgo_img/20190131162137.png)
+
 ### 环境依赖
 
 - node
