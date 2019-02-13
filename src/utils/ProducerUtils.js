@@ -35,7 +35,7 @@ class ProducerUtils {
     topics.forEach(t => {
       this.producer.send([{ topic: t, messages: msgData }], (error, data) => {
         console.log('<= sendding to ' + t)
-        if (error) {
+        if (error !== null) {
           console.log('ERROR: ' + error, data)
         }
       })
